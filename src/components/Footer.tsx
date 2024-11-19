@@ -22,7 +22,7 @@ export default function Footer() {
             <div className="flex items-center mb-4">
               {/* <Flower2 className="h-8 w-8 text-orange-500" />
               <span className="ml-2 text-xl font-semibold">Saffron Events</span> */}
-              <img src="../images/logo1.png" alt="" className='w-33 h-33'/>
+              <img src="/images/logo1.png" alt="" className='w-33 h-33'/>
             </div>
             <p className="text-gray-400">
               Creating unforgettable moments and exceptional experiences for every occasion.

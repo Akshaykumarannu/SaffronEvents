@@ -5,19 +5,19 @@ export default function Gallery() {
 
   const images = [
     {
-      url: "../images/image1.png",
+      url: "/images/image1.png",
       category: "wedding"
     },
     {
-      url: "../images/image2.png",
+      url: "/images/image2.png",
       category: "wedding"
     },
     {
-      url: "../images/image3.png",
+      url: "/images/image3.png",
       category: "wedding"
     },
     {
-      url: "../images/image4.png",
+      url: "/images/image4.png",
       category: "wedding"
     },
     {
